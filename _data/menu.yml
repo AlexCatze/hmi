@@ -39,7 +39,7 @@ primary:
           - name: "Лек 16. Життєвий цикл SCADA/HMI"
             url: "/lec/lec16.html"
       - name: "Лабораторні Citect2018 R2"
-        url: "/lab/#---citect2018-r2-2021"
+        url: "/lab/#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%BF%D0%BE%20citect2018%20r2%20(2021)"
         subsubfolderitems:
           - name: "Загальна постановка завдання до лабораторних робіт"
             url: "/lab/citect2021/task.html"
@@ -55,8 +55,8 @@ primary:
             url: "/lab/citect2021/lab5.html"
           - name: "Лаб 6. Інтеграція SCADA/HMI зі сторонніми засобами та розробка HMI для мобільних гаджетів"
             url: "/lab/citect2021/lab6.html"
-      - name: "Лабораторні Citect2018 R2"
-        url: "/lab/#---scada-zenon"
+      - name: "Лабораторні SCADA Zenon"
+        url: "/lab/#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%BF%D0%BE%20scada%20zenon"
         subsubfolderitems:
           - name: "Лаб 1. Загальні положення і підготовка робочого місця"
             url: "/lab/zenon/lab1.html"
